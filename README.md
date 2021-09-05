@@ -39,7 +39,7 @@ Loan qualification criteria is based on:
         
 User will want to make sure that they are importing externally held calculators:
 
-![Calculating Filter](
+![Calculating Filter](Starter_Code/loan_qualifier_app/Screenshots/import_filters.png)
 
 Therefore the application imports various banks and uses the following arguments to match loans:
 
