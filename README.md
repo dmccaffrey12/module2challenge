@@ -111,5 +111,3 @@ Daniel McCaffrey - [LinkedIn](https://www.linkedin.com/in/mccaffreydanny/), [E-m
 
 This project is licensed under the UW FinTech Bootcamp Fall 2021. All derivates of the work should be open source and credited as such.
 
--
-
