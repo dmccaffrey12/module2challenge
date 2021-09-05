@@ -36,6 +36,10 @@ Loan qualification criteria is based on:
         - Loan Size
         - Debit to Income ratio (calculated)
         - Loan to Value ratio (calculated)
+        
+User will want to make sure that they are importing externally held calculators:
+
+![Calculating Filter](
 
 Therefore the application imports various banks and uses the following arguments to match loans:
 
