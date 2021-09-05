@@ -31,13 +31,10 @@ User will need to be able to import libraries to call on functions within the ap
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
----
-
 ## Contributors
 
 In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 
----
 
 ## License
 
