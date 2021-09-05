@@ -1,18 +1,29 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+
+Uses Python to match potential loan borrowers with various banks in a list based on filtering through standard customer data such as credit scores, debt-to-income ratio, etc.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Uses python to filter through a list of banks with their terms and parameters to match up to potential borrowers using customer data through financial calculations such as Loan-to_value ratios, debt-to-income ratios. It will take that customer data and tell the customer how many loans are available based on their financial data and which banks will accept them.
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+User will want to make sure that fire and questionary are installed. 
+
+```pip install fire```
+
+```pip install questionary```
+
+User will need to be able to import libraries to call on functions within the app.
+
+![Imports](imports_loanqualifyer.png)
+
+
 
 ---
 
