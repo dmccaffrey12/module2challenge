@@ -21,7 +21,7 @@ User will want to make sure that fire and questionary are installed.
 
 User will need to be able to import libraries to call on functions within the app.
 
-![Import](Screenshots/imports_loanqualifyer.png)
+![Import](Starter_Code/loan_qualifier_app/Screenshots/applicant_data.png)
 
 
 
