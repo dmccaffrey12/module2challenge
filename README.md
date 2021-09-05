@@ -21,7 +21,7 @@ User will want to make sure that fire and questionary are installed.
 
 User will need to be able to import libraries to call on functions within the app.
 
-![Import](imports_loanqualifyer.png)
+[Import](imports_loanqualifyer.png)
 
 
 
@@ -65,7 +65,7 @@ It will grab bank data from a csv (included in the repo):
 
 Then importantly the application will query the user to enter their information as the applicant. 
 
-![Querying Applicant Data](applicant_data.png)
+[Querying Applicant Data](applicant_data.png)
 
 The application will then run the arguments to match qualifying loans to the applicants. Then it will ask the applicant if they would like to save the file accordingly.
 
