@@ -1,0 +1,50 @@
+   11  git commit -m "added csv to repo and defined a save csv function with qualifying data"
+   12  git push origin master
+   13  git status
+   14  git push
+   15  git status
+   16  git commit -m "updated qualifying loans function to ask user to save file"
+   17  git add app.py
+   18  git commit -m "updated qualifying loans function to ask user to save file"
+   19  git push
+   20  git status
+   21  git add Screenshots
+   22  git status
+   23  git commit -m "updating screenshot links to new folder"
+   24  git status
+   25  git add applicant_data.png
+   26  git add applicant_data
+   27  git add Screenshots/applicant_data.png
+   28  git commit
+   29  git commit -m "more edits in README file for usability"
+   30  git push
+   31  git status
+   32  git status
+   33  git add screenshots/import_filters.png
+   34  git commit -m "new screenshot for financial calculators"
+   35  git push
+   36  git push
+   37  git status
+   38  git push
+   39  git status
+   40  git commit -m "deleted local readme file to align appropriately with repository"
+   41  git status
+   42  git add/rm README.md
+   43  git rm README.md
+   44  git status
+   45  git push
+   46  git commit -m "removing README file as duplicate"
+   47  git push
+   48  git push
+   49  git push origin main
+   50  git push origin master
+   51  git push origin main
+   52  git pull
+   53  git status
+   54  git push
+   55  git push origin main
+   56  git pull
+   57  git status
+   58  git push origin main
+   59  git status
+   60  history 50 > terminal_history.txt
